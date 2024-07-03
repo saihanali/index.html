@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+
+}
+h3{
+    color:white;
+   
+   
+}
+
+
+div.div{
+  
+    gap: 30px;
+    justify-content: left;
+    display:flex;
+   color:white;
+
+}
+h1{
+color:white;
+font-size:50px;
+font-family:Arial;
+font-weight: bolder;
+
+}
+div.class{
+    display:flex;
+    gap: 30px;
+    justify-content: center;
+   
+}
